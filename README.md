@@ -11,7 +11,8 @@
   - Name 2
   - Name 3
   - Name 4
-  - Name 5  
+  - Name 5
+  - John  
  
 5. Commit these changes (`git commit`)
 6. Push your changes to GitHub (`git push`)
