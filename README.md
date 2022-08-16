@@ -22,6 +22,7 @@
   - Name 4
   - Name 5
   - John  
+  - Rachel 
 
 10. Stage your changes to git (`git add README.md`)
 11. Commit these changes (`git commit -m "[YOUR COMMIT MESSAGE]"`)
