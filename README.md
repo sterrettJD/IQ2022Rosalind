@@ -16,12 +16,14 @@
 7. On your computer, make a new branch titled "add-[your name]-readme" (you can do this using the `git branch` command)
 8. Switch over to that branch (try the `git checkout [branch-to-checkout]` command). You can make sure you're on the right branch by using `git branch`
 9. Open the README (on your computer), and add your name to this list:
-  - Name 1
+  - Emma Aldrich
   - Name 2
   - Name 3
   - Name 4
   - Name 5
-  - John  
+  - John
+  - Kurt  
+  - Hope
   - Rachel 
 
 10. Stage your changes to git (`git add README.md`)
