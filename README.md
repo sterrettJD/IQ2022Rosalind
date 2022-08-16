@@ -18,7 +18,7 @@
 9. Open the README (on your computer), and add your name to this list:
   - Emma Aldrich
   - Name 2
-  - Name 3
+  - Vanessa
   - Name 4
   - Name 5
   - John
