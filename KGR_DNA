@@ -1,0 +1,10 @@
+sequence = input("Enter your sequence: ")
+
+def DNA():
+    a_num = sequence.count("A")
+    c_num = sequence.count("C")
+    g_num = sequence.count("G")
+    t_num = sequence.count("T")
+    print(a_num," ",c_num," ",g_num," ",t_num)
+    
+DNA()
